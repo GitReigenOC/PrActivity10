@@ -1,0 +1,49 @@
+html { font-size: 16px; }
+
+body {
+    font-family: sans-serif;
+    line-height: 1.6.
+}
+
+body h1 {
+    font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+body p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+form {
+    font-family: 'Arial', sans-serif;
+}
+
+form label {
+    color: #0000EE;
+    text-decoration: none;
+    font-family: 'Courier New', monospace;
+}
+
+h1 { 
+    font-size: 2.5rem; 
+}
+
+h2 { 
+    font-size: 2rem; 
+}
+
+p { 
+    font-size: 1rem; 
+}
+
+.tagline { 
+text-transform: uppercase; letter-spacing:
+2px;
+}
+
+nav a { 
+text-transform: uppercase; font-size: 0.85rem;
+}
+
+blockquote { 
+font-style: italic; line-height: 1.8;
+}
